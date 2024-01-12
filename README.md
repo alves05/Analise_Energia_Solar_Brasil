@@ -1,4 +1,4 @@
-# Projeto de Análise de Instalação de Paineis Solares e Gereção de Energia com Power BI
+# Projeto de Análise de Instalação de Paineis Solares e Geração de Energia com Power BI
 
 ## Fluxograma do Projeto:
 
