@@ -1,0 +1,1 @@
+base_dados/empreendimento-geracao-distribuida.csv filter=lfs diff=lfs merge=lfs -text
