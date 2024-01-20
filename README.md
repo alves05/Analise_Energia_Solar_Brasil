@@ -2,4 +2,4 @@
 
 ## Fluxograma do Projeto:
 
-<img src='./img/workflow/workflow.png' width=600>
+<img src='./img/workflow/workflow.png' width=610>
