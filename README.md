@@ -22,7 +22,7 @@ A base de dados utilizada foi a [Brazil Solar Panel Generation Data](https://www
 ## Dashboard Power BI
 >Clique na imagem abaixo para acessar o dashboard.
 
-[<img src='./img/graficos/dash.png' width=600>](https://app.powerbi.com/view?r=eyJrIjoiNGM0NjdiZDUtODUwMS00MGUyLWFjZTQtNmU0YzQ3M2Q4OWMyIiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
+[<img src='./img/graficos/dash.jpg' width=610>](https://app.powerbi.com/view?r=eyJrIjoiNGM0NjdiZDUtODUwMS00MGUyLWFjZTQtNmU0YzQ3M2Q4OWMyIiwidCI6ImMxNDA5NGQwLTA0ZTMtNGM2YS1iMTM0LTg4ZTUxZDMwOWZmYyJ9)
 
 ## Fluxograma do Projeto:
 
