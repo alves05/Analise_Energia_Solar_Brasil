@@ -17,7 +17,7 @@ A base de dados utilizada foi a [Brazil Solar Panel Generation Data](https://www
 
 - [Relatório PowerBI](./relatorio/)
 - [Base de Dados](./base_dados/)
-- [Template](./img/template/)
+- [Template/ Gráficos/ Fluxograma](./img/)
 
 ## Dashboard Power BI
 >Clique na imagem abaixo para acessar o dashboard.
@@ -65,17 +65,17 @@ Foi constatado que sim, as modalidades influenciaram no crescimento, com destaqu
 
 <img src='./img/graficos/questao5.png' width=600>
 
+### 6. Quais os portes das estações de geração de energia solar?
+
+Os portes de estações identificados foram categorizados como "Microgeração" e "Minigeração". Destaca-se uma predominância significativa na categoria "Microgeração", representando 84% do total, em contraste com a "Minigeração", que equivale a aproximadamente 16%. Essa distribuição pode ser atribuída à modalidade de consumo, principalmente residencial, sugerindo uma correlação entre a preferência por microgeração e o uso doméstico de energia.
+
+<img src='./img/graficos/questao6.png' width=500>
 
 
 ## Conclusão
 
+A pesquisa sobre geração distribuída por meio de painéis solares evidenciou uma preferência significativa pela microgeração e geração distribuída, especialmente em ambientes residenciais. Os benefícios positivos dessa forma de energia incluem a diminuição das emissões de gases de efeito estufa, a geração de empregos na indústria de energia renovável e um aumento na resiliência energética. A economia associada à energia solar é impulsionada por incentivos governamentais, exemplificados pelo estado de Minas Gerais (MG), que lidera o país em instalações e na geração de energia nos anos 2018 à 2021. Os avanços tecnológicos contribuem para tornar a energia solar uma opção sustentável e economicamente viável. A transição para a energia solar não apenas atende às exigências ambientais, mas também estimula o desenvolvimento econômico, solidificando seu papel como protagonista no cenário energético futuro.
 
+A condução dessa análise contou com a aplicação crucial das técnicas de ETL e storytelling, integradas ao Power BI, uma ferramenta excelente que agilizou a elaboração do relatório e simplificou a apresentação dos dados. Isso nos permitiu apresentar as informações de maneira clara e objetiva, além de extrair insights valiosos para o negócio.
 
-
-Qual a taxa de energia solar gerada em relação a produção nacional?
-
-O custo médio da instalação é compensatório em relação a produção de energia?
-
-insentivos fiscais
-
-A média nacional é de R$ 0,72 por KWh (fonte ago/2023)
+Em síntese, a utilização da ciência de dados na realização de estudos significativos que influenciam a vida e o cotidiano da população é essencial. A compreensão desses dados nos permite entender a situação atual e nos preparar para o futuro.
