@@ -36,7 +36,7 @@ Uma empresa está atualmente conduzindo pesquisas sobre novos mercados no Brasil
 
 ### 1. Qual região teve os maiores números de instalações no período analisado?
 
-Foram identificadas 297 mil instalações entre os anos de 2018 e 2021 na região sudeste do país.
+Foram identificadas 297.202 instalações entre os anos de 2018 e 2021 na região Sudeste do país. Isso equivale a 37,35% de todas as instalações no país no período.
 
 <img src='./img/graficos/questao1.png' width=500>
 
@@ -48,13 +48,15 @@ Observou-se que a classe residencial lidera em número de instalações e consum
 
 ### 3. Residências que geram energia solar tendem a qual tipo de distribuição?
 
-A distribuição predominante nessa classe de consumo é "Com Microgeração ou Minigeração Distribuida".
+A distribuição predominante nessa classe de consumo é "Com Microgeração ou Minigeração Distribuída". Para entendermos o motivo, devemos conhecer cada tipo, começando pelo mais popular: "Com Microgeração ou Minigeração Distribuída". Esse tipo de distribuição destina-se a centrais geradoras com potência instalada de até 75 kW.
+
+Já a "Caracterizada como Autoconsumo Remoto" permite que a pessoa física que possua dois ou mais imóveis compartilhe os créditos de energia entre os imóveis. A "Caracterizada como Geração Compartilhada" é a possibilidade de geração de energia em grupo, por exemplo, moradores de um condomínio que se juntam para compartilhar os custos e os créditos da produção de energia solar. Por fim, temos a "Integrante de Empreendimento de Múltiplas UC (Unidades Consumidoras)", que se trata de empreendimentos geradores de energia.
 
 <img src='./img/graficos/questao3.png' width=500>
 
 ### 4. Os maiores geradores de energia solar são estados do nordeste?
 
-Surpreendentemente, os estados da região Nordeste não ocupam as posições de destaque no ranking das regiões com maior instalação e geração de energia solar, encontrando-se fora das cinco primeiras posições.
+Surpreendentemente, os estados da região Nordeste não ocupam as posições de destaque no ranking das regiões com maior instalação e geração de energia solar, encontrando-se fora das cinco primeiras posições. Destaca-se o estado de Minas Gerais (MG), ocupando a liderança nacional na instalação e geração de energia. Podemos atribuir a esses números os incentivos estaduais aplicados no período da análise, por meio do "Projeto Sol de Minas" da Secretaria de Desenvolvimento Econômico. Foram implementadas isenções tributárias, a fim de promover a adesão a sistemas de geração distribuída, por meio da lei estadual n° 23.762/2021.
 
 <img src='./img/graficos/questao4.png' width=500>
 
